@@ -1,0 +1,7 @@
+NAME=alsa-plugins
+VERSION=1.1.5
+REVISION=1
+SRC=ftp://ftp.alsa-project.org/pub/plugins/alsa-plugins-1.1.5.tar.bz2
+SRCMD5=f898b0e6e8acf3f6f82bc2a0f0c84a97
+BUILDDEPS=alsa-lib
+INSTALLDEPS=alsa-lib
